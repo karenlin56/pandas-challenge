@@ -1,1 +1,2 @@
 # pandas-challenge
+The code was generated using material taught in class, but the method for turning the entries budget per student column into floats using a lambda function was obtained from https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.map.html
